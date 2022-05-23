@@ -1,0 +1,4 @@
+# Ignore the config.js file
+config.js
+.DS_Store
+Earthquakes_past7days/.DS_Store
